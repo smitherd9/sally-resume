@@ -1,0 +1,34 @@
+body {
+	background-color: #66ccff;
+}
+
+address {
+	background-color: rgba(0, 0, 0, 0.5);
+	color: #ffffff;
+	width: 150px;
+}
+
+.photo {
+	float: right;
+	height: 300px;
+	width: 300px;
+}
+
+.contact-info {
+	margin: 0px auto;
+
+}
+
+.education {
+	background-color: rgba(0, 0, 0, 0.5);
+	color: #ff9933;
+	width: 300px;
+	
+}
+
+.employment {
+	background-color: rgba(0, 0, 0, 0.5);
+	color: #ffffff;
+	width: 300px;
+	
+}
